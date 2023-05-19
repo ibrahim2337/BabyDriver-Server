@@ -1,0 +1,84 @@
+[
+  {
+      "toy_name": "Whisker Remote Controlled High Quality Sports Car Blue",
+      "toy_img": "https://i.ibb.co/DgtzvwL/car1.jpg",
+      "toy-category": "Car",
+      "toy_price": 1250,
+      "toy_rating": "4.5",
+      "toy_quantity": 26,
+      "toy_description": "Head light, LED light & motor system, Forward, Backward, With light, Turn Right, Turn Left & Stop, The transmitter require 2 heavy duty “AA” size 1.5V batteries(0% Hg & Cd) and the car require NI-CD “AA” size 500 mAh 4.8V battery"
+  },
+  {
+    "toy_name": "Kid's Xf-emulation Model Rechargeable Remote Control Car Orange",
+    "toy_img": "https://i.ibb.co/5F1fdXj/car-2.jpg",
+    "toy-category": "Car",
+    "toy_price": 888,
+    "toy_rating": "4.5",
+    "toy_quantity": 24,
+    "toy_description": "Emulation car model New control experience The box contains USB charger Internal attached The car has the feature of fine turning, light, stop This Lamborghini model car has attractive colors"
+},
+{
+  "toy_name": "New Super Remote control car for kids Sport car Toy remote control car Multicolor",
+  "toy_img": "https://i.ibb.co/v3W4tZk/car3.jpg",
+  "toy-category": "Car",
+  "toy_price": 1999,
+  "toy_rating": "4.5",
+  "toy_quantity": 18,
+  "toy_description": "the New Super Remote Control Car for Kids! This sleek and stylish sport car toy is designed to provide endless hours of fun and excitement. With its vibrant multicolor design, it's sure to catch the eye and capture the imagination of young drivers."
+},
+{
+  "toy_name": "Batman Remote Control Toy Car",
+  "toy_img": "https://i.ibb.co/4jPjbDG/car4.jpg",
+  "toy-category": "Car",
+  "toy_price": 980,
+  "toy_rating": "4.5",
+  "toy_quantity": 15,
+  "toy_description": "Introducing the Batman Remote Control Toy Car! This sleek and powerful car brings the excitement of Gotham City to life. With its iconic Batman design, it's the perfect toy for young fans of the Caped Crusader. Race through the streets and take on imaginary villains with this thrilling remote control car."
+}
+,
+{
+  "toy_name": "Kid's Remote Control Off Road Race Truck Gold",
+  "toy_img": "",
+  "toy-category": "Truck",
+  "toy_price": 3900,
+  "toy_rating": "4.5",
+  "toy_quantity": 12,
+  "toy_description": "The Kid's Remote Control Off-Road Race Truck in Gold! This rugged and stylish truck is built to conquer any terrain. With its shiny gold exterior, it adds a touch of glamour to off-road adventures. Let your child unleash their inner racer and experience the thrill of controlling this powerful remote control truck."
+},
+{
+  "toy_name": "Rock Crawler High Quality Print Car Great Flexible Truck",
+  "toy_img": "",
+  "toy-category": "Truck",
+  "toy_price": 3450,
+  "toy_rating": "4.5",
+  "toy_quantity": 8,
+  "toy_description": "The Rock Crawler High Quality Print Car! This impressive truck features a realistic and detailed design that will impress any young adventurer. With its exceptional flexibility and durable construction, it's built to tackle any terrain with ease. Let your child explore new off-road challenges and enjoy endless hours of thrilling play with this versatile remote control truck."
+},
+{
+  "toy_name": "",
+  "toy_img": "",
+  "toy-category": "Truck",
+  "toy_price": 0,
+  "toy_rating": "4.5",
+  "toy_quantity": 8,
+  "toy_description": ""
+},
+{
+  "toy_name": "",
+  "toy_img": "",
+  "toy-category": "Truck",
+  "toy_price": 0,
+  "toy_rating": "4.5",
+  "toy_quantity": 8,
+  "toy_description": ""
+},
+{
+  "toy_name": "",
+  "toy_img": "",
+  "toy-category": "",
+  "toy_price": 0,
+  "toy_rating": "4.5",
+  "toy_quantity": 8,
+  "toy_description": ""
+}
+]
