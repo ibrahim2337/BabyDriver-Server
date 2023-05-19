@@ -38,7 +38,7 @@
 ,
 {
   "toy_name": "Kid's Remote Control Off Road Race Truck Gold",
-  "toy_img": "https://i.ibb.co/RDJJtcw/track-1.jpg",
+  "toy_img": "https://i.ibb.co/175HwRd/track-1-removebg-preview.jpg",
   "toy-category": "Truck",
   "toy_price": 3900,
   "toy_rating": "4.5",
@@ -47,7 +47,7 @@
 },
 {
   "toy_name": "Rock Crawler High Quality Print Car Great Flexible Truck",
-  "toy_img": "https://i.ibb.co/9yGxP5m/truck-2.jpg",
+  "toy_img": "https://i.ibb.co/3BJPmB6/truck-2-removebg-preview.jpg",
   "toy-category": "Truck",
   "toy_price": 3455,
   "toy_rating": "4.5",
@@ -107,15 +107,6 @@
   "toy_rating": "4.5",
   "toy_quantity": 16,
   "toy_description": "The Electric Gear Helicopter for Kids! This engaging toy helicopter is designed specifically for young aviators. With its simplified controls and sturdy construction, kids can easily navigate the skies and have hours of fun. Let their imaginations take flight with this exciting and interactive electric gear helicopter."
-},
-{
-  "toy_name": "",
-  "toy_img": "",
-  "toy-category": "",
-  "toy_price": 0,
-  "toy_rating": "4.5",
-  "toy_quantity": 8,
-  "toy_description": ""
 }
 
 ]
