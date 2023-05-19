@@ -38,7 +38,7 @@
 ,
 {
   "toy_name": "Kid's Remote Control Off Road Race Truck Gold",
-  "toy_img": "",
+  "toy_img": "https://i.ibb.co/RDJJtcw/track-1.jpg",
   "toy-category": "Truck",
   "toy_price": 3900,
   "toy_rating": "4.5",
@@ -47,30 +47,30 @@
 },
 {
   "toy_name": "Rock Crawler High Quality Print Car Great Flexible Truck",
-  "toy_img": "",
+  "toy_img": "https://i.ibb.co/9yGxP5m/truck-2.jpg",
   "toy-category": "Truck",
   "toy_price": 3455,
   "toy_rating": "4.5",
-  "toy_quantity": 8,
+  "toy_quantity": 10,
   "toy_description": "The Rock Crawler High Quality Print Car! This impressive truck features a realistic and detailed design that will impress any young adventurer. With its exceptional flexibility and durable construction, it's built to tackle any terrain with ease. Let your child explore new off-road challenges and enjoy endless hours of thrilling play with this versatile remote control truck."
 },
 {
-  "toy_name": "",
-  "toy_img": "",
+  "toy_name": "ARRMA RC Truck 1/5 KRATON 4X4 8S BLX Brushless Speed Monster Truck RTR",
+  "toy_img": "https://i.ibb.co/PQX0r5s/ruck.jpg",
   "toy-category": "Truck",
-  "toy_price": 0,
+  "toy_price":5049,
   "toy_rating": "4.5",
-  "toy_quantity": 8,
-  "toy_description": ""
+  "toy_quantity": 14,
+  "toy_description": "The ultimate adrenaline rush with the Brushless Speed Monster Truck RTR! This high-performance truck is equipped with a brushless motor for incredible speed and power. With its ready-to-run design, you can hit the ground running and experience the thrill of racing in no time. Buckle up and prepare for exhilarating off-road adventures with this unstoppable monster truck."
 },
 {
-  "toy_name": "",
-  "toy_img": "",
+  "toy_name": "Speed Monster Truck with Spektrum Firma",
+  "toy_img": "https://i.ibb.co/zFNF5Zs/truck4.jpg",
   "toy-category": "Truck",
-  "toy_price": 0,
+  "toy_price": 6500,
   "toy_rating": "4.5",
-  "toy_quantity": 8,
-  "toy_description": ""
+  "toy_quantity": 18,
+  "toy_description": "The thrill of speed with the Speed Monster Truck featuring Spektrum Firma technology! This powerhouse truck is equipped with a high-performance Spektrum Firma brushless motor for unmatched speed and acceleration. Dominate any terrain and leave your competition in the dust with this adrenaline-pumping remote control monster truck."
 },
 {
   "toy_name": "",
