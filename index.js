@@ -25,7 +25,7 @@ async function run() {
     app.get("/categories", async (req, res) => {
       const data = categoryCollection.find();
       const result = await data.toArray();
-      res.send(result);
+      res.send(result); 
     });
 
     app.get("/toys", async (req, res) => {
